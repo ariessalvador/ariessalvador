@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariessalvador&label=Profile%20views&color=0e75b6&style=flat" alt="ariessalvador" /> </p>
 
-- I'm a 3rd-year Computer Science student at New Era University. I'm passionate about coding, technology, and learning. Here's a bit about me:
+I'm a 3rd-year Computer Science student at New Era University. I'm passionate about coding, technology, and learning. Here's a bit about me:
 
 - 🌱 I’m currently learning **Python, web development, and algorithms.**
 
