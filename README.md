@@ -15,8 +15,17 @@ I'm a 3rd-year Computer Science student at New Era University. I'm passionate ab
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1_utx9RT8CnZOII9qr0h5PKKtUa5h5Ul3/view)
 
 <h3 align="left">Certifications 🏆:</h3>
-- [Oracle Cloud Data Management 2022 Foundations Certified Associate]([URL_to_certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=845EF32884507D6F1000B4AEF9F7C9FEE81F7268CAE60157ADE428C30EE77CF5)) from Coursera
-- [Web Development Certification](URL_to_certificate) from Udemy
+1. [Oracle Cloud Data Management 2022 Foundations Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=845EF32884507D6F1000B4AEF9F7C9FEE81F7268CAE60157ADE428C30EE77CF5)
+   - Issued by: Oracle
+
+2. [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=06E7CD6457F3E58CF7367D921CF57E7DF47D7FD1DFF683BC982DA559DEE313CD)
+   - Issued by: Oracle
+
+3. [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/98b73812677540a2b933d318bb4ab6c5)
+   - Issued by: IBM
+
+4. [Business Analytics with Excel](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NDk4NDk1XzE2OTQwNzU2OTUucG5nIiwidXNlcm5hbWUiOiJKb2huIEFyaWVzIFUuIFNhbHZhZG9yIn0%3D&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F2738%2FBusiness-Analytics-with-Excel%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1228133830286355855&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVN873SEryMQoIdU4CAFlkH%2FslAAAA)
+   - Issued by: SkillUp
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
