@@ -8,11 +8,11 @@ I'm a 3rd-year Computer Science student at New Era University. I'm passionate ab
 
 - 🌱 I’m currently learning **Python, web development, and algorithms.**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/neu.edu.ph/ariessalvador/home](https://sites.google.com/neu.edu.ph/ariessalvador/home)
+- 👨‍💻 All of my projects are available at [Google Site Profile](https://sites.google.com/neu.edu.ph/ariessalvador/home)
 
 - 📫 How to reach me **ariessalvador@skiff.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_utx9RT8CnZOII9qr0h5PKKtUa5h5Ul3/view](https://drive.google.com/file/d/1_utx9RT8CnZOII9qr0h5PKKtUa5h5Ul3/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_utx9RT8CnZOII9qr0h5PKKtUa5h5Ul3/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
