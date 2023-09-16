@@ -15,7 +15,7 @@ I'm a 3rd-year Computer Science student at New Era University. I'm passionate ab
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1_utx9RT8CnZOII9qr0h5PKKtUa5h5Ul3/view)
 
 <h3 align="left">Certifications 🏆:</h3>
-- [Oracle Cloud Data Management 2022 Foundations Certified Associate]([URL_to_certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=845EF32884507D6F1000B4AEF9F7C9FEE81F7268CAE60157ADE428C30EE77CF5)) from Oracle
+- [Oracle Cloud Data Management 2022 Foundations Certified Associate]([URL_to_certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=845EF32884507D6F1000B4AEF9F7C9FEE81F7268CAE60157ADE428C30EE77CF5)) from Coursera
 - [Web Development Certification](URL_to_certificate) from Udemy
 
 <h3 align="left">Connect with me:</h3>
