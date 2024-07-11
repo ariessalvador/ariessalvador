@@ -56,6 +56,12 @@ Let's collaborate, learn, and build amazing things together in the world of comp
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://its.ucr.edu/sites/default/files/styles/form_preview/public/powerbi%20logo%201.png?itok=yYXO-S-V" alt="powerbi" width="40" height="40"/> 
   </a>  
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariessalvador&show_icons=true&locale=en&layout=compact" alt="ariessalvador" /></p>
