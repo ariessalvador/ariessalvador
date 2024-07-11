@@ -63,6 +63,14 @@ Let's collaborate, learn, and build amazing things together in the world of comp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
 </a>
 </p>
+<h3 align="left">Check out my implementation of Software Engineering Design Patterns:</h3>
+<ul>
+  <li><a href="https://github.com/ariessalvador/Software-Engineering-Projects/tree/main/Singleton%20Pattern" target="_blank">Singleton Pattern</a></li>
+  <li><a href="https://github.com/ariessalvador/Software-Engineering-Projects/tree/main/Visitor%20Pattern" target="_blank">Visitor Pattern</a></li>
+  <li><a href="https://github.com/ariessalvador/Software-Engineering-Projects/tree/main/Observer%20Pattern" target="_blank">Observer Pattern</a></li>
+  <li><a href="https://github.com/ariessalvador/Software-Engineering-Projects/tree/main/Strategy%20Pattern" target="_blank">Strategy Pattern</a></li>
+  <li><a href="https://github.com/ariessalvador/Software-Engineering-Projects/tree/main/AdapterPattern" target="_blank">Adapter Pattern</a></li>
+</ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariessalvador&show_icons=true&locale=en&layout=compact" alt="ariessalvador" /></p>
 
