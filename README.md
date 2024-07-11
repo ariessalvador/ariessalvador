@@ -62,6 +62,15 @@ Let's collaborate, learn, and build amazing things together in the world of comp
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
 </a>
+   <a href="https://public.tableau.com/en-us/s/" target="_blank" rel="noreferrer"> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5_qv0Ozpa7qRccQ3Kg2DmrrMJjwmZcXK0wg&s" alt="tableau" width="40" height="40"/> 
+</a> 
+<a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer"> 
+  <img src="https://p7.hiclipart.com/preview/879/229/166/ibm-db2-database-computer-software-sql-ibm.jpg" alt="db2" width="40" height="40"/> 
+</a> 
+<a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://e7.pngegg.com/pngimages/625/214/png-clipart-lucidchart-logo-thumbnail-tech-companies-thumbnail.png" alt="lucidchart" width="40" height="40"/> 
+</a>
 </p>
 <h3 align="left">Check out my implementation of Software Engineering Design Patterns:</h3>
 <ul>
