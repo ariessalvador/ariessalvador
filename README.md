@@ -26,7 +26,7 @@ Let's collaborate, learn, and build amazing things together in the world of comp
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aries-salvador-07791b291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aries-salvador-07791b291" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ariessalvador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariessalvador" height="30" width="40" /></a>
 <a href="https://fb.com/0xaries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0xaries" height="30" width="40" /></a>
 </p>
 
