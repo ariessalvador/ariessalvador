@@ -11,17 +11,6 @@ I'm a 3rd-year Computer Science student at New Era University. I'm passionate ab
 - 📫 How to reach me: **ariessalvador@skiff.com**
 
 Let's collaborate, learn, and build amazing things together in the world of computer science and technology! 🚀
-
-<h3 align="left">Certifications 🏆:</h3>
-
-1. [Oracle Cloud Data Management 2022 Foundations Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=845EF32884507D6F1000B4AEF9F7C9FEE81F7268CAE60157ADE428C30EE77CF5)
-   - Issued by Oracle
-2. [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=06E7CD6457F3E58CF7367D921CF57E7DF47D7FD1DFF683BC982DA559DEE313CD)
-   - Issued by Oracle
-3. [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/98b73812677540a2b933d318bb4ab6c5)
-   - Issued by IBM
-4. [Business Analytics with Excel](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NDk4NDk1XzE2OTQwNzU2OTUucG5nIiwidXNlcm5hbWUiOiJKb2huIEFyaWVzIFUuIFNhbHZhZG9yIn0%3D&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F2738%2FBusiness-Analytics-with-Excel%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1228133830286355855&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVN873SEryMQoIdU4CAFlkH%2FslAAAA)
-   - Issued by SkillUp
      
 
 <h3 align="left">Connect with me:</h3>
@@ -69,14 +58,7 @@ Let's collaborate, learn, and build amazing things together in the world of comp
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/lucidchart_logo_icon_170973.png" width="40" height="40"/> 
 </a>
 </p>
-<h3 align="left">Check out my implementation of Software Engineering Design Patterns:</h3>
-<ul>
-  <li><a href="https://github.com/ariessalvador/Software-Engineering-Projects/tree/main/Singleton%20Pattern" target="_blank">Singleton Pattern</a></li>
-  <li><a href="https://github.com/ariessalvador/Software-Engineering-Projects/tree/main/Visitor%20Pattern" target="_blank">Visitor Pattern</a></li>
-  <li><a href="https://github.com/ariessalvador/Software-Engineering-Projects/tree/main/Observer%20Pattern" target="_blank">Observer Pattern</a></li>
-  <li><a href="https://github.com/ariessalvador/Software-Engineering-Projects/tree/main/Strategy%20Pattern" target="_blank">Strategy Pattern</a></li>
-  <li><a href="https://github.com/ariessalvador/Software-Engineering-Projects/tree/main/AdapterPattern" target="_blank">Adapter Pattern</a></li>
-</ul>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariessalvador&show_icons=true&locale=en&layout=compact" alt="ariessalvador" /></p>
 
