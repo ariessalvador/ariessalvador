@@ -8,7 +8,7 @@ I'm passionate about coding, technology, and learning. Here's a bit about me:
 
 - 🌱 I’m currently learning **Python, web development, and maching learning algorithms.**
 
-- 📫 How to reach me: **ariessalvador@skiff.com**
+- 📫 How to reach me: **johnariessalvador@gmail.com**
 
 Let's collaborate, learn, and build amazing things together in the world of computer science and technology! 🚀
      
