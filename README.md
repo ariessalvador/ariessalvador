@@ -62,6 +62,5 @@ Let's collaborate, learn, and build amazing things together in the world of comp
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariessalvador&show_icons=true&locale=en&layout=compact" alt="ariessalvador" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariessalvador&show_icons=true&locale=en" alt="ariessalvador" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariessalvador&" alt="ariessalvador" /></p>
