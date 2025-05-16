@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/ariessalvador)
+
 <h1 align="center">Hi 👋, I'm Aries</h1>
 
 
@@ -48,15 +48,7 @@ Let's collaborate, learn, and build amazing things together in the world of comp
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
 </a>
-   <a href="https://public.tableau.com/en-us/s/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" alt="tableau" width="40" height="40"/> 
-</a> 
-<a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer"> 
-  <img src="https://p7.hiclipart.com/preview/879/229/166/ibm-db2-database-computer-software-sql-ibm.jpg" alt="db2" width="40" height="40"/> 
-</a> 
-<a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/lucidchart_logo_icon_170973.png" width="40" height="40"/> 
-</a>
+
 </p>
 
 
