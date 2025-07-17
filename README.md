@@ -12,7 +12,6 @@
 - Advanced topics in **Cybersecurity**
 - **Python scripting** for automation and ethical hacking
 - **Web application security**
-- Machine learning algorithms & computer vision (as part of my thesis)
 
 ---
 
