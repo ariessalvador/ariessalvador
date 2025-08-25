@@ -17,10 +17,9 @@
 
 ### 🧠 Featured Projects
 
-#### 🎓 Thesis Project
 - **[Coffee Leaf Analyzer](https://github.com/ariessalvador/Coffee-Leaf-Analyzer)**  
   Image processing tool for detecting coffee leaf rust using Python and ML.
-  
+ 
 - **[Java Design Patterns](https://github.com/ariessalvador/Java-Design-Patterns)**  
   A collection of common Java design patterns with simple examples.
   
