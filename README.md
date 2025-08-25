@@ -20,7 +20,10 @@
 #### 🎓 Thesis Project
 - **[Coffee Leaf Analyzer](https://github.com/ariessalvador/Coffee-Leaf-Analyzer)**  
   Image processing tool for detecting coffee leaf rust using Python and ML.
-
+  
+- **[Java Design Patterns](https://github.com/ariessalvador/Java-Design-Patterns)**  
+  A collection of common Java design patterns with simple examples.
+  
 #### 🤖 Python Automation Bots
 - **[Supra Testnet Bot](https://github.com/ariessalvador/supra-testnet-bot)** – Automates Supra testnet interaction.
 - **[Web Traffic Bot](https://github.com/ariessalvador/web-traffic-bot)** – Simulates web traffic behavior.
